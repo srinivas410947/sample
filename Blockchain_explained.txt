@@ -1,0 +1,20 @@
+blockchain is a chain of blocks which are interlinked with each other 
+each block contains data, hash of the block and hash of the previous block 
+incase of bitcoin data is nothing but sender, receiver information and the amount transferred
+
+
+when a block is created it is sent to all the nodes in the network and the transactions are verified in each block 
+
+transparency
+Authentication 
+auditing 
+
+International money transfers is called correspondent banking--- sending bank can directly connect to the receiving bank
+
+blockchain plays key role in 
+syndicated loans
+peer to peer loans 
+bonds assurance
+
+counerfiet
+ 
