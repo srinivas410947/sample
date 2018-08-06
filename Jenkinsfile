@@ -10,11 +10,16 @@ pipeline {
             input 'username'
           }
         }
-        stage('') {
+        stage('error') {
           steps {
             readFile 'sample.txt'
           }
         }
+      }
+    }
+    stage('') {
+      steps {
+        echo 'hii'
       }
     }
   }
