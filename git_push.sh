@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd /appl/was/wcbd/git_testing
+cd /appl/was/wcbd/git_testing/sample
 git pull https://github.com/srinivas410947/sample.git
 cd /appl/was/wcbd/git_testing/sample
 git add *
