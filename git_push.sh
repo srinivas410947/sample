@@ -2,6 +2,7 @@
 
 cd /appl/was/wcbd/git_testing/sample
 git pull https://github.com/srinivas410947/sample.git
+git checkout testing
 cd /appl/was/wcbd/git_testing/sample
 git add *
 git commit -m "Auto-Commit"
